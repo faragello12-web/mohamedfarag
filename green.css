@@ -1,0 +1,24 @@
+:root {
+	--second-color: #fff;
+	--first-color: #669966;
+  }
+  
+  body {
+	background-color: #606B56;
+  }
+  .portfolio {
+	background-color: #606B56;
+  }
+  .nav {
+	background-color: #606B56;
+  }
+  .nav__menu {
+	background-color: #606B56;
+  }
+  .l-header {
+	background-color:#606B56;
+  }
+  @media screen and (max-width: 768px) {
+	.nav__menu {
+	  background-color: #57644a;
+	}
